@@ -1,0 +1,11 @@
+server:
+  port: 8401
+
+spring:
+  application:
+    name: aservice-rbac
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/eureka/

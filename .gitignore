@@ -1,0 +1,5 @@
+# Project exclude paths
+/aservice-rbac/target/
+/aservice-sms/target/
+/cloud-server-eureka/target/
+/service-common/target/
